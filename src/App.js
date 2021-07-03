@@ -7,9 +7,7 @@ function App() {
   return (
     <div className="container-full width h-100">
       <NavBar/>
-      <Route exact path="/" >
       <Home/>
-      </Route>
     <div className="container">
     </div> 
     </div>
